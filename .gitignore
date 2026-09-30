@@ -1,0 +1,15 @@
+/build/
+/dist/
+/data/
+/scripts-art.ps1
+/scripts-atlas.ps1
+/scripts-extract-rest.ps1
+/scripts-merge-ru.ps1
+/scripts-normalize.ps1
+.stfolder/
+.stversions/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
